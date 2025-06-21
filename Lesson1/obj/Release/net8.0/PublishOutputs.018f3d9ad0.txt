@@ -1,0 +1,7 @@
+C:\Users\hotst\Desktop\I PP on Azure\Lesson1\bin\Publish\Lesson1.exe
+C:\Users\hotst\Desktop\I PP on Azure\Lesson1\bin\Publish\appsettings.Development.json
+C:\Users\hotst\Desktop\I PP on Azure\Lesson1\bin\Publish\appsettings.json
+C:\Users\hotst\Desktop\I PP on Azure\Lesson1\bin\Publish\Lesson1.dll
+C:\Users\hotst\Desktop\I PP on Azure\Lesson1\bin\Publish\Lesson1.deps.json
+C:\Users\hotst\Desktop\I PP on Azure\Lesson1\bin\Publish\Lesson1.runtimeconfig.json
+C:\Users\hotst\Desktop\I PP on Azure\Lesson1\bin\Publish\Lesson1.pdb
