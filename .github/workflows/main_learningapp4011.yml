@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'learningapp4011'
           slot-name: 'Production'
-          package: ./publish
+          package: .
           
